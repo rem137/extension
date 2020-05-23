@@ -1,1 +1,210 @@
-
+[
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/afk",
+        "package": "https://bibliofile.github.io/BHMB-AFKResponder/build/bundle.js",
+        "title": "AFK Messages",
+        "description": "Let your players set an AFK message if they will be online but not responding to chat.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/analytics",
+        "package": "https://bibliofile.github.io/BHMB-Server-Analytics/build/bundle.js",
+        "title": "Analytics",
+        "description": "Statistics on your server's activity.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/ban_messages",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/ban_messages.js",
+        "title": "Ban Messages",
+        "description": "Announce when someone gets banned in chat.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/banking",
+        "package": "http://bibliofile.github.io/BHMB-Server-Currency/build/bundle.js",
+        "title": "Banking",
+        "description": "Are gold coins too cheap? Create your own currency.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/censoring",
+        "package": "https://bibliofile.github.io/BHMB-Censor-List/build/bundle.js",
+        "title": "Censor List",
+        "description": "Easily create a censor list to ban those who use foul language on your server.",
+        "env": "all"
+    },
+    {
+        "user": "DaPerson",
+        "id": "dapersonmgn/combatmessages",
+        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-CombatMessages/master/build/bundle.js",
+        "title": "Combat Messages",
+        "description": "Allows you to send messages whenever someone dies/get's hit.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/countdown",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/countdown.js",
+        "title": "Countdown",
+        "description": "Use /count or /count # to start a countdown, use /timer and /done to time an event.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/cron",
+        "package": "https://bibliofile.github.io/BHMB-Cron-Messages/build/bundle.js",
+        "title": "Cron Messages",
+        "description": "A re-imagined timer messages system.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/dice",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/dice.js",
+        "title": "Dice",
+        "description": "Adds the /roll command: /roll, /roll 2, /roll 2d10",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/emojis",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/emojis.js",
+        "title": "Emoji Shortcodes",
+        "description": "Use emoji shortcodes in your messages like :joy:",
+        "env": "all"
+    },
+    {
+        "user": "DaPerson",
+        "id": "dapersonmgn/groupmanagement",
+        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-groupManagement/master/build/bundle.js",
+        "title": "Group Management",
+        "description": "Create usergroups with custom permissions to use commands. You can also use /GM-HELP to edit permissions in-game.",
+        "env": "all"
+    },
+    {
+        "user": "Wingysam",
+        "id": "xyz.wingysam.lastseen",
+        "package": "https://wingysam.github.io/BHMB-LastSeen/extension.js",
+        "title": "Last Seen",
+        "description": "Tell players where someone was last seen! - Adds the where command. /where wingysam",
+        "env": "browser+cloud"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/lists",
+        "package": "https://bibliofile.github.io/BHMB-List-Manager/build/bundle.js",
+        "title": "List Manager",
+        "description": "Easily manage lists for multiple servers.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/logs",
+        "package": "https://bibliofile.github.io/BHMB-LogViewer/build/bundle.js",
+        "title": "Log Viewer",
+        "description": "Makes it easier to review your server logs without getting lost in the noise.",
+        "env": "all"
+    },
+    {
+        "user": "DaPerson",
+        "id": "dapersonmgn/mail",
+        "package": "https://gitcdn.xyz/repo/dapersonmgn/BHMB-mail/master/build/bundle.js",
+        "title": "Mail",
+        "description": "Send mail to other players who are offline! See /mail help for more info.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/manpages",
+        "package": "https://bibliofile.github.io/BHMB-Manpages/build/bundle.js",
+        "title": "Man Pages",
+        "description": "Create a structured help page system for your players.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/marcopolo",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/marco.js",
+        "title": "Marco Polo [Demo]",
+        "description": "Adds the /marco command to chat.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/motd",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/motd.js",
+        "title": "Message of the day",
+        "description": "Create a MOTD which is only sent the first time a player joins that day.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/name_triggers",
+        "package": "http://bibliofile.github.io/BHMB-NameTriggers/build/bundle.js",
+        "title": "Name Triggers",
+        "description": "Send messages based on player names when they join the server.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/nav-names",
+        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/nav-names.js",
+        "title": "Navbar Online",
+        "description": "Show online players in the navbar at the top of the page.",
+        "env": "browser"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/slash_op",
+        "package": "https://bibliofile.github.io/BHMB-Slash-OP/build/bundle.js",
+        "title": "OP Messages",
+        "description": "Let players use /op to send a message to you.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/prompts",
+        "package": "https://bibliofile.github.io/BHMB-Prompts/build/bundle.js",
+        "title": "Prompt Messages",
+        "description": "Custom interactive prompts with players",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/quests",
+        "package": "https://bibliofile.github.io/BHMB-Quests/build/bundle.js",
+        "title": "Quests",
+        "description": "Create quests that players can complete to gain XP and levels.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/convert",
+        "package": "https://bibliofile.github.io/BHMB-Migration/build/bundle.js",
+        "title": "Save Migration",
+        "description": "Migrate saves from V6->V7",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/tempban",
+        "package": "https://bibliofile.github.io/BHMB-TempBan/build/bundle.js",
+        "title": "Temporary Bans",
+        "description": "Makes it possible to ban players for only a few minutes.",
+        "env": "all"
+    },
+    {
+        "user": "Bibliophile",
+        "id": "bibliofile/warnings",
+        "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
+        "title": "Warnings",
+        "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
+        "env": "all"
+    }
+]
