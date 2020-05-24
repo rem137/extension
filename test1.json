@@ -191,6 +191,14 @@
         "description": "Migrate saves from V6->V7",
         "env": "all"
     },
+     {
+        "user": "rem137",
+        "id": "test",
+        "package": "https://bibliofile.github.io/BHMB-Migration/build/bundle.js",
+        "title": "test",
+        "description": "test",
+        "env": "all"
+    },
     {
         "user": "Bibliophile",
         "id": "bibliofile/tempban",
