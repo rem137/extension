@@ -200,19 +200,11 @@
         "env": "all"
     },
     {
-        "user": "Bibliophile",
-        "id": "bibliofile/warnings",
+        "user": "rem137",
+        "id": "test",
         "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
-        "title": "Warningsss",
-        "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
-        "env": "all"
-    },
-    {
-        "user": "Bibliophile",
-        "id": "bibliofile/warnings",
-        "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
-        "title": "Warnings",
-        "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
+        "title": "random",
+        "description": "it a test",
         "env": "all"
     }
 ]
