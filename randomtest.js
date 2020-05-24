@@ -4,13 +4,13 @@
   (factory(global['@bhmb/bot']));
 }(this, (function (bot) { 'use strict';
   const MessageBot = bot.MessageBot
-  MessageBot.registerExtension('test', function(ex, world) {
-    world.addCommand('ping', function(player, args) {
-      ex.bot.send('Pong!')
+  MessageBot.registerExtension('bibliofile/marcopolo', function(ex, world) {
+    world.addCommand('marco', function(player, args) {
+      ex.bot.send('Polo!')
     })
 
     ex.remove = function() {
-      world.removeCommand('ping')
+      world.removeCommand('marco')
     }
   })
 })))
