@@ -210,9 +210,9 @@
      {
         "user": "rem137",
         "id": "test",
-        "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/random%20test",
         "title": "Warnings",
-        "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
+        "description": "test it is",
         "env": "all"
     }
 ]
