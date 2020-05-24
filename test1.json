@@ -202,7 +202,7 @@
     {
         "user": "rem137",
         "id": "test",
-        "package": "https://raw.githubusercontent.com/rem137/extension/master/test2",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/test2.js",
         "title": "random",
         "description": "it a test",
         "env": "all"
