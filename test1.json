@@ -130,7 +130,7 @@
     {
         "user": "Bibliophile",
         "id": "bibliofile/marcopolo",
-        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/marco.js",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/randomtest.js",
         "title": "Marco Polo [Demo]",
         "description": "Adds the /marco command to chat.",
         "env": "all"
