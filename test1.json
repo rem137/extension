@@ -202,7 +202,7 @@
     {
         "user": "rem137",
         "id": "test",
-        "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/random%20test",
         "title": "random",
         "description": "it a test",
         "env": "all"
