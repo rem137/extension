@@ -23,7 +23,7 @@
         "description": "Announce when someone gets banned in chat.",
         "env": "all"
     },
-    {
+    { 
         "user": "Bibliophile",
         "id": "bibliofile/banking",
         "package": "http://bibliofile.github.io/BHMB-Server-Currency/build/bundle.js",
