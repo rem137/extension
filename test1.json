@@ -203,7 +203,7 @@
         "user": "Bibliophile",
         "id": "bibliofile/warnings",
         "package": "https://bibliofile.github.io/BHMB-Warnings/build/bundle.js",
-        "title": "Warningss",
+        "title": "Warningsss",
         "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
         "env": "all"
     }
