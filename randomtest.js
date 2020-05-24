@@ -6,7 +6,7 @@
   const MessageBot = bot.MessageBot
   MessageBot.registerExtension('bibliofile/marcopolo', function(ex, world) {
     world.addCommand('marco', function(player, args) {
-      ex.bot.send('Polo!')
+      ex.bot.send('Poloo!')
     })
 
     ex.remove = function() {
