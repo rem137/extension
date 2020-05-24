@@ -130,7 +130,7 @@
     {
         "user": "Bibliophile",
         "id": "bibliofile/marcopolo",
-        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/marco.js",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/randomtest.js",
         "title": "Marco Polo [Demo]",
         "description": "Adds the /marco command to chat.",
         "env": "all"
@@ -197,14 +197,6 @@
         "package": "https://bibliofile.github.io/BHMB-TempBan/build/bundle.js",
         "title": "Temporary Bans",
         "description": "Makes it possible to ban players for only a few minutes.",
-        "env": "all"
-    },
-    {
-        "user": "rem137",
-        "id": "bibliofile/marcopolo",
-        "package": "https://bibliofile.github.io/BHMB-Mini-Extensions/marco.js",
-        "title": "random",
-        "description": "it a test",
         "env": "all"
     }
 ]
