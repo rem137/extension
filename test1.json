@@ -195,7 +195,7 @@
         "user": "Bibliophile",
         "id": "bibliofile/tempban",
         "package": "https://bibliofile.github.io/BHMB-TempBan/build/bundle.js",
-        "title": "Temporary Bans",
+        "title": "Temporary Banss",
         "description": "Makes it possible to ban players for only a few minutes.",
         "env": "all"
     } 
