@@ -198,5 +198,5 @@
         "title": "Temporary Bans",
         "description": "Makes it possible to ban players for only a few minutes.",
         "env": "all"
-    }
+    } 
 ]
