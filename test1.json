@@ -206,13 +206,5 @@
         "title": "Warnings",
         "description": "Lets you use /warn to warn players before banning them, and automatically ban players with too many warnings.",
         "env": "all"
-    },
-     {
-        "user": "rem137",
-        "id": "test",
-        "package": "https://raw.githubusercontent.com/rem137/extension/master/random%20test",
-        "title": "Warnings",
-        "description": "test it is",
-        "env": "all"
     }
 ]
