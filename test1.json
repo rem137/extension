@@ -194,7 +194,7 @@
      {
         "user": "rem137",
         "id": "test",
-        "package": "https://bibliofile.github.io/BHMB-Migration/build/bundle.js",
+        "package": "https://raw.githubusercontent.com/rem137/extension/master/randomtest.js",
         "title": "test",
         "description": "test",
         "env": "all"
