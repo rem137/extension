@@ -7,6 +7,7 @@
     MessageBot.registerExtension('bibliofile/marcopolo', function(ex, world) {
         world.addCommand('marco', function(player, args) {
             ex.bot.send('Polo!')
-        })
+        })I>
     })
 })))
+
